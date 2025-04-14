@@ -61,7 +61,7 @@ Here is an excerpt from a book that might help:
 
 {text}
 
-Please explain the relevant information clearly and thoroughly.
+Please explain the relevant information clearly and thoroughly n 250 Words.
 """
     return call_gemini_api(prompt)
 
