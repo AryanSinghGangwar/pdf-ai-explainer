@@ -4,7 +4,7 @@ import json
 from sentence_transformers import SentenceTransformer, util
 
 # Setting Gemini API key and URL
-GEMINI_API_KEY = "AIzaSyDze59Xi148KrS_Xc_Rx_Sv7J9tNyi0hII"
+GEMINI_API_KEY = "******"
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
 
 #Pdf processing and text extraction
